@@ -38,7 +38,7 @@ This repository contains the final lab assignments completed for the **Design an
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/DAA-Final-Lab-Tasks.git
+   git clone https://github.com/Sidra-009/DAA-Final-Lab-Tasks.git
    cd DAA-Final-Lab-Tasks
 
    python task1_bubble_sort.py
